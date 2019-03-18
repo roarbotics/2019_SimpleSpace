@@ -29,7 +29,7 @@ the control tab, make sure that that the robot is enabled here and in the driver
 If it still doesn't work, make sure you have the right firmware and that the can connections are secure (no, duck-tape and zip-ties do not count. 
 Solder and crimp only). 
 
-If it STILL doesn't work, ¯\_(ツ)_/¯ try getting another motor controller. You can always replace it with a PWM motor controller
+If it STILL doesn't work, ¯\\_(ツ)_/¯ try getting another motor controller. You can always replace it with a PWM motor controller
 just make sure to update the code (the init lines are pretty much the same just use a Spark() or Talon() or whatever, the value is the PWM address
 on the side of the RIO).
 
