@@ -1,7 +1,8 @@
 # 2019_SimpleSpace
 a simpler version of the deep space code with less functionality
 
-If you are reading this, you are probably having problems. Good luck
+If you are reading this, you are probably having problems. Good luck.
+
 Also use [this](https://wpilib.screenstepslive.com/s/4485) (control system)
 and [this](https://buildmedia.readthedocs.org/media/pdf/phoenix-documentation/latest/phoenix-documentation.pdf) (CAN stuff)
 
