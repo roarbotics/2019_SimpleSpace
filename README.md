@@ -2,7 +2,8 @@
 a simpler version of the deep space code with less functionality
 
 If you are reading this, you are probably having problems. Good luck
-Also use [this](https://wpilib.screenstepslive.com/s/4485)
+Also use [this](https://wpilib.screenstepslive.com/s/4485) (control system)
+and [this](https://buildmedia.readthedocs.org/media/pdf/phoenix-documentation/latest/phoenix-documentation.pdf) (CAN stuff)
 
 # Uploading Code
 To upload code to the robot, open Visual Studio Code and open the robot project (either this one or the main one,
